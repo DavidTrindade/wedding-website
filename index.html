@@ -1,9 +1,17 @@
-<html>
- 
-<body>
-  <h1>David Trindade Ferreira</h1>
-  <p>Hosting test website</p>
-  <img src="https://content.codecademy.com/articles/github-pages-via-web-app/happy-ice-cream.gif" />
-</body>
- 
-</html>
+---
+# Under Construction
+# layout: under_construction
+# show_nav: false
+# show_footer: false
+# background: assets/img/flowers.jpg
+
+# Published
+layout: default
+include: our_story.html
+invisible_nav: true
+---
+
+{% include banners.html %}
+{% if page.include %}
+  {% include {{ page.include }} %}
+{% endif %}
