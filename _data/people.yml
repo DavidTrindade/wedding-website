@@ -1,10 +1,10 @@
 families:
   - pic: rutherfords.png
-    name: The Rutherfords
-    people: Mark, Marilyn, and Kaitlyn
+    name: The Suresh Family
+    people: Jana, Mum, Dad
   - pic: cordinas.png
-    name: The Cordinas
-    people: Anthony, Debra, Victoria, Christina, and Jessica
+    name: The Trindade Ferreira family
+    people: Diogo, Emanuel, Gabriela
 kids:
   - pic: daisy.png
     name: Daisy
