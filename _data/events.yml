@@ -7,13 +7,14 @@
   transportation:
   shuttle:
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
+    address: York House, Richmond Rd, Twickenham
+    city: London
+    postal_code: TW1 3AA
+    state: Richmond
+    long_state: Richmond
+    zip: TW1 3AA
+    # coordinates: 41.911652,-87.641253
+    google_maps_url: https://www.google.com/maps/place/Registration+of+Births+Deaths+%26+Marriages+Richmond/@51.4476988,-0.3248597,19z/data=!4m15!1m8!3m7!1s0x48760c616adfa4c9:0x7c8748dc6e8c58b6!2sYork+House,+Richmond+Rd,+Twickenham+TW1+3AA!3b1!8m2!3d51.447698!4d-0.324216!16s%2Fm%2F026zftn!3m5!1s0x48760c614037a52f:0x82954da1bd1293e0!8m2!3d51.4474968!4d-0.3243432!16s%2Fg%2F11bzzyq99w?hl=en-GB&entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D
     venue_name:
   calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick.
 
