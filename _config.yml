@@ -29,20 +29,21 @@ url: "https://www.divdav.org/" # the base hostname & protocol for your site, e.g
 collections:
   stories:
     sort_by: order
-  banners:
+  
+# banners:
 
 sass:
   style: compressed
 
-defaults:
-  - scope:
-      path: "photos/"
-    values:
-      image: true
-  - scope:
-      type: banners
-    values:
-      layout: banner
+# defaults:
+#   - scope:
+#       path: "photos/"
+#     values:
+#       image: true
+#   - scope:
+#       type: banners
+#     values:
+#       layout: banner
 
 
 # Build settings
