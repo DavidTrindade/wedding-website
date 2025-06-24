@@ -209,13 +209,13 @@ RSVP
 
       // You can also choose to set an end time
       // If an end time is set, this will take precedence over duration
-      end: new Date(Number("1757206800") * 1000),
+      end: new Date(Number("1757192400") * 1000),
 
       // Event Address
       address: 'York House, Richmond Rd, Twickenham London, Richmond TW1 3AA',
 
       // Event Description
-      description: "We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick. \n\nWebsite: https://www.divdav.org/"
+      description: "We can't wait to see you on the day of the wedding. For any questions or issues, contact nobody. \n\nWebsite: https://www.divdav.org/"
     },
       'add-to-cal',
     );
@@ -269,6 +269,12 @@ RSVP
                     </li>
 
                     
+                      
+                        <li class=" nav-item">
+                            <a href="/events" class="nav-link">Events</a>
+                        </li>
+                      
+                    
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -280,48 +286,6 @@ RSVP
 
         <div class="content-wrapper">
             <div class="banner-container">
-    
-    
-    
-    
-    
-    
-    <div class="banner" id="/banners/timed-banner">
-        <div class="close-button">
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-        </div>
-        <div class="banner-content">
-            <p>This banner only shows up at February 9, 2022 20:22:22</p>
-
-        </div>
-    </div>
-
-    <script>
-        (function(){
-            const banner = document.getElementById('/banners/timed-banner');
-            // hide banner when close button is clicked.
-            banner.querySelector('.btn-close').addEventListener('click', function(){
-                banner.classList.add('hidden');
-                setTimeout(() =>
-                    banner.classList.add('closed'),
-                    1000
-                );
-            });
-
-            // hide banner if it's not time to show it.
-            
-                const startTime = new Date('2022-02-09 20:22:22 -0500');
-                const endTime = new Date('2022-02-09 23:22:22 -0500');
-                console.log(startTime);
-                console.log(endTime);
-                const now = new Date();
-                if (now < startTime || now > endTime) {
-                    banner.classList.add('hidden');
-                }
-            
-        })();
-    </script>
-
     
 </div>
 
