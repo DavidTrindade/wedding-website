@@ -23,7 +23,7 @@ email: contact@divdav.org
 description: >- # this means to ignore newlines until "baseurl:"
   We're getting married!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.divdav.org/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 collections:
