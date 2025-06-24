@@ -1,11 +1,9 @@
 - name: Civil Wedding
   main_event: true
-  date: 2025-09-06 17:00:00 −04:00
-  endDate: 2025-09-06 21:00:00 -04:00
-  attire: snappy casual
-  description: Our wedding ceremony will be the perfect blend of our separate Catholic and Baptist traditions. Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. There will be a parking attendant on site to direct you, and the venue will also provide transportation to the ceremony site if needed. We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
-  transportation:
-  shuttle:
+  date: 2025-09-06 17:00:00
+  endDate: 2025-09-06 21:00:00
+  attire: Traditional/Formal
+  description: Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. There will be a parking attendant on site to direct you. We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
   location:
     address: York House, Richmond Rd, Twickenham
     city: London
@@ -14,20 +12,19 @@
     long_state: Richmond
     zip: TW1 3AA
     # coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/Registration+of+Births+Deaths+%26+Marriages+Richmond/@51.4476988,-0.3248597,19z/data=!4m15!1m8!3m7!1s0x48760c616adfa4c9:0x7c8748dc6e8c58b6!2sYork+House,+Richmond+Rd,+Twickenham+TW1+3AA!3b1!8m2!3d51.447698!4d-0.324216!16s%2Fm%2F026zftn!3m5!1s0x48760c614037a52f:0x82954da1bd1293e0!8m2!3d51.4474968!4d-0.3243432!16s%2Fg%2F11bzzyq99w?hl=en-GB&entry=ttu&g_ep=EgoyMDI1MDQwMi4xIKXMDSoJLDEwMjExNDU1SAFQAw%3D%3D
-    venue_name:
-  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Nathan Orick.
+    google_maps_url: https://maps.app.goo.gl/XJ7rejed5Ss7Zrjj6
+    venue_name: York House
+  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact nobody.
 
 - name: Reception
   date_alt: Immediately following the civil wedding
-  attire: snappy casual
-  description: The wedding reception is at the same venue as the ceremony and will commence directly after the ceremony ends. Venue staff will direct you to the reception space. Dinner will be provided and make sure to bring your dancing shoes!
+  attire: Traditional/Formal
+  description: The wedding reception is held in a venue near to York House and will commence soon after the ceremony ends. It is a 12 minute drive or a 30 minute bus ride.
   location:
-    address: 640 Pansy Hill Rd
-    city: Harriman
-    state: TN
-    long_state: Tennessee
-    zip: 37748
-    coordinates: 41.911652,-87.641253
-    google_maps_url: https://www.google.com/maps/place/St+Michael+in+Old+Town/@41.912635,-87.6408956,15z/data=!4m2!3m1!1s0x0:0xe227f2c7eb743c04
-    venue_name:
+    address: Honeymoon Banqueting Hall, 50 Bell Rd
+    city: London
+    state: Hounslow
+    long_state: Hounslow
+    zip: TW3 3PB
+    google_maps_url: https://maps.app.goo.gl/pNyJtCkDHTmyavZr7
+    venue_name: Honeymoon Banqueting Hall
