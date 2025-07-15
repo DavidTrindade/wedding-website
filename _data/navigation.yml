@@ -10,8 +10,8 @@
 #   link: /faq
 # - name: City Guide
 #   link: /guide
-# - name: Registry
-#   link: /registry
+- name: Registry
+  link: /registry
 # - name: Photos
 #   link: /photo-gallery
 # - name: Livestream
