@@ -7,8 +7,8 @@ hero_position: 50% 25%
 
 theme:
   # text_color: '#404040'
-  primary_color: '#E0B0FF'
-  secondary_color: '#F9B3A7'
+  primary_color: '#C9A0DC'
+  secondary_color: '#EFA59A'
   # accent_color: '#afa63d'
   # background_color: '#ffff'
 
