@@ -1,9 +1,32 @@
+- name: Hindu Wedding
+  date: 2025-09-04 09:45:00
+  endDate: 2025-09-04 14:00:00
+  attire: Traditional/Formal
+  description:
+    - 9:45am - Arrival time and appetizers will be served
+    - 10:20am - Ceremony will start and all should be seated please
+    - 11:30 - Refreshments and Break
+    - 1pm - Lunch will be served
+    - 2:30pm - End of the hindu wedding, thanks for coming!
+  location:
+    address: Nakshatra Hall, Snakey Ln
+    city: Feltham
+    postal_code: TW13 7NA
+    state: Middlesex
+    long_state: Middlesex
+    zip: TW13 7NA
+    google_maps_url: https://maps.app.goo.gl/4HaFqPXgeRbiwBDy9
+    venue_name: Nakshatra Hall
+
 - name: Civil Wedding
   main_event: true
   date: 2025-09-06 16:00:00
   endDate: 2025-09-06 18:00:00
   attire: Traditional/Formal
-  description: The ceremony begins at 17:00, but we ask that people arrive early for photos and such, as there will be no time after. Also please ensure that your cell phones are off and out of sight for the duration of the ceremony.
+  description:
+    - 4pm - Arrival for photos and if you wish to walk around the gardens as they are very pretty!
+    - 5pm - Civil ceremony starts, all should be seated and please do ensure phones are on silent, thank you
+    - 6pm - Civil ceremony ends and make way immediately to the Reception!
   location:
     address: York House, Richmond Rd, Twickenham
     city: London
@@ -11,7 +34,6 @@
     state: Richmond
     long_state: Richmond
     zip: TW1 3AA
-    # coordinates: 41.911652,-87.641253
     google_maps_url: https://maps.app.goo.gl/XJ7rejed5Ss7Zrjj6
     venue_name: York House
   calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Divyah.
@@ -19,7 +41,12 @@
 - name: Reception
   date_alt: Immediately following the civil wedding
   attire: Traditional/Formal
-  description: The wedding reception is held in a venue near to York House and will commence soon after the ceremony ends. It is a 12 minute drive or a 30 minute bus ride.
+  description:
+    - 6 to 6:30pm - Arrival time for Reception, please note parking is free after 6:30pm
+    - 7pm - Starters will be served
+    - 9pm - Mains and dessert as buffet service
+    - 10pm - Dance floor opens!
+    - 11:30 - 12am - End of reception, thank you for attending
   location:
     address: Honeymoon Banqueting Hall, 50 Bell Rd
     city: London
