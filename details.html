@@ -1,12 +1,9 @@
 ---
 layout: info
 title: Travel and Stay
-billboard_image: assets/img/gazeebo.jpg
+billboard_image: assets/img/dogs.jpg
+image_position: "50% 90%"
 include: details.html
 ---
 
-{% if site.context == "lbc" %}
-  {% include lbc_details.html %}
-{% else %}
-  {% include chi_details.html %}
-{% endif %}
+{% if site.context == "lbc" %} {% include lbc_details.html %} {% else %} {% include chi_details.html %} {% endif %}
