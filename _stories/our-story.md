@@ -2,6 +2,6 @@
 order: 0
 ---
 
-## Under Construction
+## Welcome
 
-Hello, this website is currently under construction. Please come back in due time for details about locations, times and hopefully a third thing.
+Hello, please visit "Events" for details on the events of the 6th; "Travel and Stay" for details on travelling and accommodation; and "Registry" for links to the registry.

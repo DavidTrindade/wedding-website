@@ -1,9 +1,9 @@
 - name: Civil Wedding
   main_event: true
-  date: 2025-09-06 17:00:00
-  endDate: 2025-09-06 21:00:00
+  date: 2025-09-06 16:00:00
+  endDate: 2025-09-06 18:00:00
   attire: Traditional/Formal
-  description: Please arrive at least 10 minutes prior to the start of the ceremony in order to find your seat. We ask that you please ensure that your cell phones are off and out of sight for the duration of the ceremony.
+  description: The ceremony begins at 17:00, but we ask that people arrive early for photos and such, as there will be no time after. Also please ensure that your cell phones are off and out of sight for the duration of the ceremony.
   location:
     address: York House, Richmond Rd, Twickenham
     city: London
@@ -14,7 +14,7 @@
     # coordinates: 41.911652,-87.641253
     google_maps_url: https://maps.app.goo.gl/XJ7rejed5Ss7Zrjj6
     venue_name: York House
-  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact nobody.
+  calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Divyah.
 
 - name: Reception
   date_alt: Immediately following the civil wedding
