@@ -1,11 +1,14 @@
 ---
 layout: info
 title: FAQ
-billboard_image: assets/img/dress.jpg
+#billboard_image: assets/img/dress.jpg
 image_position: center center
-include: faq.html
+# include: faq.html
 ---
 
-{% if page.include %}
-  {% include {{ page.include }} %}
-{% endif %}
+{% if page.include %} {% include {{ page.include }} %} {% endif %}
+<img
+    src="{{ '/assets/img/marriage_photo.jpg' | relative_url }}"
+    alt="Test"
+    style="display: block; width: 100%; height: auto"
+/>
