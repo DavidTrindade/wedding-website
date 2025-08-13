@@ -2,7 +2,7 @@ google_analytics_id: G-X0BJ20T7XR
 
 hero_image: assets/img/marriage_photo.jpg
 hero_position: 50% 25%
-mobile_hero_image: assets/img/flowers.jpg
+mobile_hero_image: assets/img/marriage_photo.jpg
 # mobile_hero_position: 50% 25%
 
 theme:
