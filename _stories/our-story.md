@@ -2,8 +2,9 @@
 order: 0
 ---
 
-## Welcome
+<h2 style="color: #3C0008">Welcome</h2>
 
+<br>
 Hi everyone, welcome to our wedding website where you can find details of the following:
 
 <a href="https://divdav.org/events" target="_blank">Events</a> for details and timings of the Hindu Wedding, Civil Ceremony and Reception.
