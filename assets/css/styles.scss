@@ -53,6 +53,8 @@ $background-color-lighter: scale-color({{site.data.settings.theme.background_col
         {% endif %}
     }
 
+
+
     --text-color: #{$text-color};
     --text-color-lighter: #{$text-color-lighter};
 
@@ -79,4 +81,8 @@ $background-color-lighter: scale-color({{site.data.settings.theme.background_col
 
     --background-color: #{$background-color};
     --background-color-lighter: #{$background-color-lighter};
+}
+
+.intro, .hero, .masthead {
+    background-attachment: scroll !important;
 }
