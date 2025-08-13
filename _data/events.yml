@@ -5,7 +5,7 @@
   description:
     - 9:45am - Arrival time and appetizers will be served
     - 10:20am - Ceremony will start and all should be seated please
-    - 11:30 - Refreshments and Break
+    - 11:30am - Refreshments and Break
     - 1pm - Lunch will be served
     - 2:30pm - End of the hindu wedding, thanks for coming!
   location:
@@ -39,7 +39,8 @@
   calendar_description: We can't wait to see you on the day of the wedding. For any questions or issues, contact Divyah.
 
 - name: Reception
-  date_alt: Immediately following the civil wedding
+  date: 2025-09-06 18:00:00
+  endDate: 2025-09-06 23:30:00
   attire: Traditional/Formal
   description:
     - 6 to 6:30pm - Arrival time for Reception, please note parking is free after 6:30pm
