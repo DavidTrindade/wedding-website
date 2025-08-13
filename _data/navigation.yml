@@ -6,8 +6,8 @@
 #   link: /people
 - name: Travel and Stay
   link: /details
-- name: FAQ
-  link: /faq
+# - name: FAQ
+#   link: /faq
 - name: Registry
   link: /registry
 # - name: Photos
