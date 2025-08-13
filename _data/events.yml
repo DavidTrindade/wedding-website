@@ -3,11 +3,10 @@
   endDate: 2025-09-04 14:00:00
   attire: Traditional/Formal
   description:
-    - 9:45am - Arrival time and appetizers will be served
-    - 10:20am - Ceremony will start and all should be seated please
-    - 11:30am - Refreshments and Break
-    - 1pm - Lunch will be served
-    - 2:30pm - End of the hindu wedding, thanks for coming!
+    - "09:45 - Arrival time and appetizers will be served"
+    - "10:20 - Ceremony will start and all should be seated please"
+    - "13:00 - Lunch will be served"
+    - "14:30 - End of the hindu wedding, thanks for coming!"
   location:
     address: Nakshatra Hall, Snakey Ln
     city: Feltham
@@ -24,9 +23,9 @@
   endDate: 2025-09-06 18:00:00
   attire: Traditional/Formal
   description:
-    - 4pm - Arrival for photos and if you wish to walk around the gardens as they are very pretty!
-    - 5pm - Civil ceremony starts, all should be seated and please do ensure phones are on silent, thank you
-    - 6pm - Civil ceremony ends and make way immediately to the Reception!
+    - "16:00 - Arrival for photos and walking around the gardens as they are very pretty!"
+    - "17:00 - Civil ceremony starts, all should be seated and ensure phones are on silent"
+    - "18:00 - Civil ceremony ends and make way immediately to the Reception!"
   location:
     address: York House, Richmond Rd, Twickenham
     city: London
@@ -43,11 +42,10 @@
   endDate: 2025-09-06 23:30:00
   attire: Traditional/Formal
   description:
-    - 6 to 6:30pm - Arrival time for Reception, please note parking is free after 6:30pm
-    - 7pm - Starters will be served
-    - 9pm - Mains and dessert as buffet service
-    - 10pm - Dance floor opens!
-    - 11:30 - 12am - End of reception, thank you for attending
+    - "18:00 to 18:30 - Arrival time for Reception, please note parking is free after 6:30pm"
+    - "19:00 to 21:30 - Food served; starters (7pm) then mains buffet service (~9pm)"
+    - "22:00 - Dance floor opens!"
+    - "23:30 to 00:00 - End of reception, thank you for attending"
   location:
     address: Honeymoon Banqueting Hall, 50 Bell Rd
     city: London
